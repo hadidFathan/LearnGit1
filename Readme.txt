@@ -1,0 +1,1 @@
+Saya mencoba upload data menggunakan git,melalui command bash.
